@@ -1,8 +1,9 @@
 body{
  background-image: url("https://images.pexels.com/photos/1155574/pexels-photo-1155574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");  
  background-repeat: no-repeat;
-
- background-size: auto;
+ background-size: cover;
+ height:100vh;
+ background-position:center center;
 }
 
 .container{
